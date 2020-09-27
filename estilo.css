@@ -1,0 +1,45 @@
+ul #contacto {
+    border-color: rgba(7, 7, 172, .30);
+    background-color: rgba(33, 33, 236, .5);
+    border-style: outset;
+     border-radius: 20px;
+    
+}
+
+#Header a:hover{
+    color: grey;
+}
+
+#navbar a {
+    color: rgb(255, 255, 255);
+    
+}
+
+body, html {
+    height: 100%;
+}
+
+#bg-img {
+    background-image: url("fondo.jpg");
+
+
+  
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+    height: 100%;
+  
+}
+
+#foto {
+    padding: 10px;
+}
+
+.about #carta{
+    position: relative;
+    top: 350px;
+    margin: auto;
+    padding: auto;
+}
+
